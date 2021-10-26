@@ -7,6 +7,6 @@ public class FeaturePhone extends Phone { // single inheritance
 	}
 
 	void music() {
-		System.out.println("Play music");
+		System.out.println("Play music.......");
 	}
 }
